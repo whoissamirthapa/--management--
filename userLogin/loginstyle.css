@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card{
+    width: 40%;
+    margin: 10rem auto;
+    
+}
+.card > .card-header > strong{
+    font-size: 20px;
+}
